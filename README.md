@@ -1,0 +1,1 @@
+A very brief foray into Ruby's metaprogramming capabilities. Explored the use of method_missing in order to create undefined methods on the fly for a small example class.
